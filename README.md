@@ -35,3 +35,7 @@ TimeLineViewControl control = new TimeLineViewControl(weeks,
 
 this.View.AddSubview(control);
 ```
+
+###Output
+
+![](https://github.com/guntidheerajkumar/KBTimeLineControl/blob/master/output.png)
